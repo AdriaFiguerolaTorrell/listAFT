@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1,Adria Figuerola Torrell list
+
+#EXTINF: -1,La 1 HD
+http://93.176.172.39:9981/stream/channelid/1198739201
+
+#EXTINF: -1,La 2 HD
+http://93.176.172.39:9981/stream/channelid/1576268368
+
+#EXTINF: -1,TV3HD
+http://93.176.172.39:9981/stream/channelid/1277625202
+
+
+#EXTINF:-1, tvg-logo="hr1LLrh.png" group-title="Canales Españoles", Cuatro 
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF: -1,Super3 / 33
+http://93.176.172.39:9981/stream/channelid/1432721444
+
+#EXTINF: -1,laSexta HD
+http://93.176.172.39:9981/stream/channelid/1696568131
+
+#EXTINF: -1,Cuatro HD
+http://93.176.172.39:9981/stream/channelid/1702142909
+
+#EXTINF: -1,24/3
+http://93.176.172.39:9981/stream/channelid/483895134
+
+#EXTINF: -1,Esport3
+http://93.176.172.39:9981/stream/channelid/4457184947
+
+#EXTINF: -1,8TV
+http://93.176.172.39:9981/stream/channelid/1237228800
+
+#EXTINF: -1,tdp HD
+http://93.176.172.39:9981/stream/channelid/1897411613
+
+#EXTINF: -1,RED DE PARAMOUNT
+http://93.176.172.39:9981/stream/channelid/201571685
+
+#EXTINF: -1,atreseries HD
+http://93.176.172.39:9981/stream/channelid/1187196948
+
+#EXTINF: -1,neox
+http://93.176.172.39:9981/stream/channelid/1313463711
+
+#EXTINF: -1,FDF
+http://93.176.172.39:9981/stream/channelid/2065498776
+
+#EXTINF: -1,Telecinco HD
+http://93.176.172.39:9981/stream/channelid/420696916
+
